@@ -1,0 +1,18 @@
+# Dependencies
+**/lib/
+
+# Compiler files
+**/out/
+**/cache/
+
+# Broadcast logs
+**/broadcast/
+
+# Env files
+**/.env
+
+# Docs
+docs/
+
+# Nested level folders
+Level-01-Fallback/Level-00-Hello-Ethernaut/
